@@ -18,5 +18,3 @@
     </table>
   </body>
 </html>
-เขียนถึง
-Aa
